@@ -1,0 +1,6 @@
+{
+  "name": "SehatYuk",
+  "description": "Aplikasi kesehatan dan well-being berbasis SDG 3 untuk mahasiswa dan generasi muda: daily health tracking, mood check-in, tantangan harian, edukasi, dan gamifikasi.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

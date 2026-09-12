@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- White apple/heart shape -->
+    <path
+        android:fillColor="#FFFFFFFF"
+        android:pathData="M54,77 C48,72 32,60 32,46 C32,37 39,31 47,31 C50,31 52.5,32.5 54,34.5 C55.5,32.5 58,31 61,31 C69,31 76,37 76,46 C76,60 60,72 54,77 Z" />
+    
+    <!-- Top-right leaf in emerald green -->
+    <path
+        android:fillColor="#00A86B"
+        android:pathData="M59,33 C63,24 71,24 74,27 C74,31 70,37 63,36 Z" />
+    
+    <!-- Center energetic healthy dot in emerald green -->
+    <path
+        android:fillColor="#00A86B"
+        android:pathData="M54,50m-3.8,0a3.8,3.8 0,1 1,7.6 0a3.8,3.8 0,1 1,-7.6 0" />
+</vector>
